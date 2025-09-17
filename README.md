@@ -1,4 +1,4 @@
-# ***KEYLOGGER EM PYTHON* **
+# **KEYLOGGER EM PYTHON**
 
 <img src="imagens/pypic.png" alt="Yui Hirasawa" width="409">
 
